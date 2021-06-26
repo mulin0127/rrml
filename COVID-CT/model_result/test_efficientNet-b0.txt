@@ -1,0 +1,2 @@
+
+ The epoch is 10, average recall: 0.7905, average precision: 0.8137,average F1: 0.8019, average accuracy: 0.7980, average AUC: 0.8789
